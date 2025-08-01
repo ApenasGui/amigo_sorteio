@@ -1,12 +1,12 @@
-# Nome do projeto
+# Sorteio Amigo Secreto (Desafio ONE)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 
-<img src="[imagem.png](https://i.pinimg.com/736x/2f/36/24/2f3624eb3d889f21704dfbab29e5e7b1.jpg)" alt="Exemplo imagem">
+<img src="https://i.pinimg.com/736x/2f/36/24/2f3624eb3d889f21704dfbab29e5e7b1.jpg" alt="Exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Pequeno projeto que o usuário pode adicionar quantos amigos quiser a lista e em seguida, sortear um deles para ser seu amigo secreto.
 
 ### Ajustes e melhorias
 
