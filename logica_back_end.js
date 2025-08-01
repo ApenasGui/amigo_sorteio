@@ -24,3 +24,10 @@ function adicionar_nome_lista() {
 
     document.getElementById('nome_amigo').value = ''
 }
+
+function sortear() {
+    let numMaxSorteio = array_amigos.length
+    let numSorteado = Math.round(Math.random() * numMaxSorteio)
+
+    alert(`Amigo sorteado foi ${array_amigos[numSorteado]}`)
+}
